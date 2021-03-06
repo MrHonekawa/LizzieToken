@@ -2,7 +2,7 @@ Time period till cashback applies.
 
 ```
 When you burn any amount of lizzie.
-You know you will be awarded by 2% of cashback.
+You know you will be awarded by 1% of cashback.
 
 It will only be given on 2 Week.
 From when you burn.
