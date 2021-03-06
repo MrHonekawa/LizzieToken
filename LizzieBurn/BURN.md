@@ -3,8 +3,8 @@ When you Burn Lizzie Some Conditions Apply..
 
 ```
 Burning Lizzie Cost Fee:
-                       Doge: 0.04 
-                       TRX: 0.05
+                       Doge: 0.03 
+                       TRX: 0.03
 You will be given award of 1% of Burnt Lizzie.
 Minimum: 10
 Maximum: ANY
